@@ -11,6 +11,8 @@ ZooKeeper is an Apache project that enables centralized service for maintaining
 configuration information, naming, providing distributed synchronization, and
 providing group services.
 
+This branch is builded for php7.
+
 Resources
 ---------
  * [zookeeper](http://hadoop.apache.org/zookeeper/)
